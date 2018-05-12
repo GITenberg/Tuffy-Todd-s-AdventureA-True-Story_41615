@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41263'
     url: http://www.gutenberg.org/2009/agents/41263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41615#Tuffy-Todd-s-AdventureA-True-Story
 gutenberg_issued: '2012-12-13'
 gutenberg_type: Text
 identifiers:
